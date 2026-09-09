@@ -1,0 +1,13 @@
+BEGIN
+    INSERT INTO room VALUES ('100', 'H00', 'Standard', '100.00'); 
+    INSERT INTO room VALUES ('100', 'H01', 'Deluxe', '500.00');
+    INSERT INTO room VALUES ('100', 'H01', 'Standard', '200.00');
+    INSERT INTO room VALUES ('101', 'H01', 'Special', '300.00');
+    INSERT INTO room VALUES ('101', 'H01', 'Superior', '300.00');
+    INSERT INTO room VALUES ('100', 'H02', 'Family', '200.00');
+END;
+
+CLICK HERE: https://www.ganttproject.biz/
+TO DOWNLOAD GANTTPROJECT
+
+About GanttProject : An open-source project management application for Windows, macOS and Linux desktops
